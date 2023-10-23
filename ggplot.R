@@ -1,4 +1,5 @@
 # R workshop - Intro to ggplot
+# Authors: Juliana Balluffi-Fry, Lionel Leston, and Simran Bains
 
 # Install packages and load libraries
 install.packages("ggplot2")
