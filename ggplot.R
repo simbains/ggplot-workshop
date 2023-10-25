@@ -8,7 +8,7 @@ library(ggplot2)
 library(tidyverse)
 
 # read in data and view the data
-biomass <- read.csv("input/biomass.csv")
+biomass <- read.csv("input/biomass.csv") # File can be found on Juliana's GitHub Teaching R workshop repository
 head(biomass) #OR
 View(biomass)
 
